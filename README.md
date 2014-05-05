@@ -1,6 +1,6 @@
-ParisHilton.js
+MickaelVendetta.js
 ==============
 
-"ParisHilton.js - removes everything between the &lt;head>&lt;/head> tags." via https://twitter.com/iamdevloper/status/461635611141898240
+MickaelVendetta.js - removes everything between the &lt;head>&lt;/head> tags.
 
-[![Code Climate](https://codeclimate.com/github/fbrandel/ParisHilton.js.png)](https://codeclimate.com/github/fbrandel/ParisHilton.js)
+This is a fork of https://github.com/fbrandel/ParisHilton.js, modified to comply with french coding standards.
